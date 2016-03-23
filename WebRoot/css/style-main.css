@@ -1,0 +1,128 @@
+
+
+html,body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+	border-collapse: collapse;
+	background: url(../images/bg1.jpg);
+	background-size: 100% 100%;
+	background-repeat: repeat-y;
+}
+
+html{
+	overflow: auto;
+}
+
+#top-head{
+	position: relative;
+	background-color: rgba(91,89,87,0.5);;
+	width:100%;
+	height: 33px;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+#s_hd{
+	bottom: 0;
+	height: 35px;
+	right: 3px;
+	line-height: 35px;
+	position: absolute;
+	top: 0;
+}
+
+ul{
+	padding-left: 6px;
+	float: left;
+	margin:0px 10px;
+}
+
+a{
+	text-decoration: none;
+	color: #ACACAC;
+}
+a:hover,#footl a:hover{
+	color: #fff;
+}
+
+li{
+	list-style-type: none;
+	display: inline;
+	margin: 4px;
+	
+}
+#search_box{
+	position: relative;
+	top: 110px;
+	left: 23%;
+	width: 1028px;
+	margin:0px;
+	z-index: 9;
+	
+}
+.search_logo{
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	height: 57px;
+	margin:-4px 6px 0 0;
+	width: 153px;
+	position: relative;
+	text-indent: -20em;
+	float: left;
+}
+.search_controls{
+	float: left;
+}
+.sform_box{
+	font: 18px "Segoe UI",Arial,Helvetica,sans-serif;
+}
+
+form{
+	display: block;
+	margin-top: 0em;
+}
+
+input{
+	
+    font-family: inherit;
+    font-feature-settings: inherit;
+    font-kerning: inherit;
+    font-language-override: inherit;
+    font-size: 100%;
+    font-size-adjust: inherit;
+    font-stretch: inherit;
+    font-style: inherit;
+    font-synthesis: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+
+}
+
+#sform_q{
+	background-color: #fff;
+    border: 1px solid #fff;
+}
+.sform_qq{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    box-sizing: content-box;
+    height: 40px;
+    max-height: 30px;
+    outline: medium none;
+    position: relative;
+    width: 490px;
+}
+
+#sform_go{
+	background-color: #fff;
+    border: 1px solid #fff;
+    height: 33px;
+    margin-left: 8px;
+}

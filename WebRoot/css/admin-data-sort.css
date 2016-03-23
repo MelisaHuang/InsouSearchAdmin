@@ -1,0 +1,49 @@
+.right-d3{
+	margin:30px 0 0 22px;
+}
+.set-sort{
+	margin:18px 0 0 159px;
+}
+.s-title{
+	margin-top: 20px;
+}
+.set-sort2{
+	margin:18px 0 0 159px;
+}
+.set-b{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+
+table{
+	border:1px solid #ebebeb;
+	width: 408px;
+	text-align: center;
+}
+table tr td{
+	border-bottom:1px solid #ebebeb;
+	border-spacing: 0
+}
+table thead tr td{
+	height: 35px;
+	border-color: rgba(162,204,152,0.8)
+}
+table tbody tr td{
+	font-size: 15px;
+	height: 25px;
+	border:1px solid #ebebeb;
+}
+ table tbody tr:hover{
+	background-color: rgba(162,204,152,0.5)
+}
+.t-top{
+	background-color: rgba(162,204,152,0.8)
+}
+.s-button{
+	margin:14px 0 0 302px;
+	width: 72px;
+	height: 26px;
+	background-color:  rgba(162,204,152,0.5);
+	border:1px solid rgba(162,204,152,0.5);
+	box-shadow: 2px 2px 2px 1px rgba(180, 180, 180, 0.4);
+}

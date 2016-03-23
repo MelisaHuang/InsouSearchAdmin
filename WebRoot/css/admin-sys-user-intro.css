@@ -1,0 +1,13 @@
+.right-c3{
+	margin-left: 15px;
+}
+.title{
+	font-weight: bold;
+}
+.line{
+	width: 821px;
+	height: 88px;
+}
+.line :hover{
+	background-color: rgba(162,204,152,0.5)
+}

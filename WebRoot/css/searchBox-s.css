@@ -1,0 +1,123 @@
+*{
+    margin-top: 0;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+}
+body{
+    color: #999999;
+}
+.showTop{
+    width:1366px;
+    height: 142px;
+    margin-top: 0px;
+    border-bottom: 1px solid #ebebeb;
+    box-shadow: 1px 0 6px 0 rgba(180, 180, 180, 0.4);
+}
+.right-head a{
+    color: #000;
+    font-size: 15px;
+    margin: 15px 0 0 1286px;
+}
+.right-head a:hover{
+    color: #777;
+}
+
+#search_box{
+	position: absolute;
+	width: 1028px;
+    margin:23px 65px;
+}
+
+.search_logo{
+	position: relative;
+	text-indent: -20em;
+	float: left;
+}
+.search_logo img{
+
+    height: 57px;
+    width: 153px;
+    padding: 0 0 8px 0;
+    float: left;
+}
+.search_controls{
+	float: left;
+    margin-top: 6px;
+}
+.sform_box{
+	font: 18px "Segoe UI",Arial,Helvetica,sans-serif;
+}
+
+form{
+	display: block;
+	margin-top: 0em;
+}
+
+input{
+	
+    font-family: inherit;
+    font-feature-settings: inherit;
+    font-kerning: inherit;
+    font-language-override: inherit;
+    font-size: 100%;
+    font-size-adjust: inherit;
+    font-stretch: inherit;
+    font-style: inherit;
+    font-synthesis: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+
+}
+
+#sform_q{
+	background-color: #fff;
+    border: 1px solid #90969C;
+}
+.sform_qq{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    box-sizing: content-box;
+    height: 40px;
+    max-height: 30px;
+    outline: medium none;
+    position: relative;
+    width: 490px;
+}
+
+#sform_go{
+	background-color: #fff;
+    border: 1px solid;
+    height: 33px;
+    width:58px;
+    margin-left: 8px;
+    border: 1px solid #90969C;
+}
+
+.tipWord{
+    height: 20px;
+    padding:66px 0 0 67px;
+}
+.tipWord img{
+    margin: 18px 13px -5px 0;
+    height: 25px;
+
+
+}
+.tipWord p a{
+    text-decoration:none;
+    color: #666666
+}
+.tipWord p a:hover{
+    color: #333333
+}
+.tipWord span{
+    font-size: 15px;
+    padding-bottom: 5px;
+}
+.tipWord .tip {
+    margin-right: 26px;
+}

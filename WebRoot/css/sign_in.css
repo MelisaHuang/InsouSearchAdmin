@@ -1,0 +1,78 @@
+body {
+	background:#EAE6C3;
+}
+
+.signin {
+	width:477px;
+	height:479px;
+	background:rgba(162,204,152,0.7);
+	margin:0 auto;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-239px;
+	margin-left:-238px;
+}
+.signin-head {
+	margin:15px 0 0 152px;
+	padding-top:30px;
+	width:120px;
+}
+img{
+  width: 175px;
+  height: 100px;
+}
+.form-signin {
+  max-width: 330px;
+  padding: 43px 15px 15px 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+  margin-bottom: 14px;
+  border-radius: 0;
+  background: url(../images/login_user.png) 0 0 #bdbdbd no-repeat;
+  padding-left:60px;
+  color:#FFFFFF;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-radius: 0;
+  background: url(../images/login_pas.png) 0 0 #bdbdbd no-repeat;
+  padding-left:60px;
+  color:#FFFFFF;
+}
+.form-signin button {
+  border-radius: 0;
+}
+
+button a{
+  color: #FFFFFF
+}
+button a:hover{
+  color: #FFFFFF;
+  text-decoration: none;
+}
+.foot{
+  position: absolute;
+  top: 605px;
+  bottom: 5px;
+  left: 577px;
+}

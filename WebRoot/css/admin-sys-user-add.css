@@ -1,0 +1,14 @@
+.right-c1{
+	margin: 30px 0 0 35px;
+}
+.b-return{
+	background-color: rgba(162,204,152,0.5);
+	border:1px solid rgba(162,204,152,0.5);
+	height: 24px;
+	width: 62px;
+	box-shadow: 2px 2px 5px 1px rgba(180, 180, 180, 0.4);
+}
+.b-return a{
+	color: #111;
+	text-decoration: none;
+}

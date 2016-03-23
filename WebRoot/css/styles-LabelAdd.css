@@ -1,0 +1,70 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	font:18px/1.3 'Microsoft Yahei','宋体';
+	color:#fff;
+}
+.all{
+	background:#89D7C1;
+	margin: 10px 0;
+}
+.top-logo{
+  margin-top: 36px;
+}
+#page{
+	margin:5px auto;
+	width:960px;
+}
+.words1{
+	color: #fff;
+	margin-top: 0px;
+	font-size: 16px;
+	border:1px solid;
+}
+.words1 p{
+
+}
+.words2{
+	color: #fff;
+	margin-bottom: 0px;
+	font-size: 16px;
+	border:1px solid #fff;
+}
+#container{
+	margin:0px auto;
+	padding:0;
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix {
+	display: inline-block;
+}
+* html .clearfix { 
+	height: 1%;
+}
+.clearfix {
+	display: block;
+}
+
+#container p{
+	padding:10px 0;
+}
+
+a{
+  	color: #fff;
+  	text-decoration:none;
+	} 
+a:visited {
+	outline:none;
+}
+a:hover{
+	color: #333;
+	text-decoration:underline;
+}

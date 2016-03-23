@@ -1,0 +1,21 @@
+.left-bar{
+	width: 306px;
+	height: 600px;
+	float: left;
+	margin: 12px 32px 0 20px;
+	box-shadow: 1px 0 6px 0 rgba(180, 180, 180, 0.4);
+}
+
+.right-content{
+	width: 600px;
+	float: left;
+}
+
+.right-head a{
+	color: #000;
+	font-size: 15px;
+	margin: 0 0 0 1286px;
+}
+.right-head a:hover{
+	color: #777;
+}

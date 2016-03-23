@@ -1,0 +1,36 @@
+.right-c2{
+	margin: 31px 0 0 0;
+}
+.right-c2 table{
+	margin-left:40px; 
+	width:92%;
+}
+.right-c2 table td{
+	border-top: 1px solid #ebebeb;
+	border-bottom: 1px solid #ebebeb;
+	border-spacing: 0px;
+	font-size: 15px;
+}
+
+.right-c2 thead .t-tr{
+	height: 29px;
+	margin-bottom: 5px;
+}
+
+.right-c2 tbody .t-tr0{
+	height: 29px;
+}
+.right-c2 tbody .t-tr0:hover{
+	background-color:  rgba(162,204,152,0.5)
+}
+.right-c2 tbody td a{
+	color: #111;
+	text-decoration: none;
+	border:1px solid #ebebeb;
+	padding: 4px;
+}
+
+.right-c2 tbody td a:hover{
+	color: rgb(162,204,152);
+	background-color: #fff
+}

@@ -1,0 +1,28 @@
+.input-w{
+	margin: 22px 0 0  221px;
+}
+.s-button{
+	width: 64px;
+	background-color:  rgba(162,204,152,0.5);
+	border:1px solid rgba(162,204,152,0.5);
+	box-shadow: 2px 2px 2px 1px rgba(180, 180, 180, 0.4);
+}
+.rub-t{
+	font-size: 14px;
+	color: #666;
+	margin: 15px 0 0 192px;
+}
+table{
+	border:1px solid #ebebeb;
+	width: 385px;
+}
+table tr td{
+	border-bottom:1px solid #ebebeb;
+	border-spacing: 0
+}
+table tr:hover{
+	background-color: rgba(162,204,152,0.5)
+}
+.s-delete{
+	margin-left: 289px;
+}

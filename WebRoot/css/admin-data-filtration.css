@@ -1,0 +1,61 @@
+body{
+	min-height: 900px;
+}
+
+.myclass{
+	margin-top: 20px;
+	width: 100%;
+}
+
+.right{
+	min-height: 650px;
+}
+
+.right-main{
+	margin-top: 15px;
+}
+
+.h-hr{
+	/*border-top:1px solid #ebebeb;*/
+	margin-bottom: 10px;
+}
+.title-barb{
+	text-decoration: none;
+	margin: 15px 0 0 40px;
+	color: #111;
+}
+table{
+	font-size: 15px;
+}
+
+table tr td li{
+	list-style: none;
+}
+table tbody tr td{
+	margin: 5px 0 5px 0;
+}
+.td-bg{
+	border-bottom: 1px solid #ebebeb
+}
+.td-bg:hover{
+	background-color: rgba(162,204,152,0.5);
+}
+
+.word{
+	width: 93px;
+	line-height: 25px;
+	text-align: left;
+}
+
+.add-w{
+	width: 224px;
+}
+.add-wb{
+	height: 52px;
+}
+.line-block{
+	padding-bottom: 20px;
+}
+.f-word{
+	padding-left: 216px;
+}

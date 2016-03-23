@@ -1,0 +1,35 @@
+
+body{
+	min-width: 1336px;
+	font-family: "微软雅黑",Arial,Verdana,Sans-serif;
+}
+
+div{
+	display: block;
+	margin: 0;
+}
+.clear{
+	clear: both;
+}
+#outside{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.head{
+	
+}
+
+
+#navigation{
+	
+}
+
+.left{
+	
+
+}
+
+.bor{
+	border-bottom: 1px solid #DEDED7;
+}
